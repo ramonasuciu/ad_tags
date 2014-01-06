@@ -20,6 +20,8 @@ html_footer = """
 html_1 = "<p><font size = '3' color = 'red'>"
 html_2 = "</font></p>"
 
+print "AAAAAAAAAAAAAAAAAAA"
+
 for url in urls:
     print url
     cdata_list = []
